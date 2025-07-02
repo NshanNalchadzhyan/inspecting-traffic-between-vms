@@ -23,3 +23,4 @@ In this project, I analyze various types of network traffic to and from Azure vi
 <h2>Summary</h2>
 
 In this project, I dive into Azure's network world, focusing on two key parts. First, I use Wireshark to closely study the different kinds of data moving between Azure virtual machines. This helps me understand how data flows, spot any issues, and ensure security. I get hands-on experience with network security groups. These are like digital bouncers that decide who gets in and out of a party (or network). I set up rules to control who can enter and leave, which makes sure the network is safe and runs smoothly. By combining these two aspects, I'm learning how to analyze and protect networks effectively. This project equips me with practical skills for managing networks and ensuring they're secure and efficient, which is crucial in today's tech landscape.
+
